@@ -1,0 +1,17 @@
+body{
+  background-color: aqua;
+
+}
+
+#clock{
+  background-color:white;
+  margin: auto;
+   top: 0; left: 0; bottom: 0; right: 0;
+  width: 450px;
+  height: 300px;
+  padding: 80px;
+  text-align: center;
+  font-size: 100px;
+  border: 2px solid;
+ font-family: cursive;
+}
