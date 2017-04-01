@@ -21,7 +21,7 @@ setInterval(function()
   }
   if (hours > 12) {
       hours = hours - 12;
-      ampm = "PM";
+      ampm = "  PM";
   }
 
   if (hours === 0) {
